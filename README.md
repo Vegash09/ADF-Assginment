@@ -1,6 +1,5 @@
-# Sales View Data Engineering Project
+# Overview of ADF Assignment
 
-## Overview
 This project implements an end-to-end data pipeline using **Azure Data Factory (ADF)**, **Azure Data Lake Storage (ADLS)**, and **Databricks**. The pipeline ingests raw CSV files, processes them through a **Bronze → Silver → Gold** architecture, and prepares curated data for analytics.
 
 ---
